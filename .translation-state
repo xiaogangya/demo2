@@ -2,15 +2,15 @@
   "e30c52f3e721b1036d334e98fc9ad984242e87aa": {
     "SourceFileCommit": "1db6b78053574e760a1b6a0d01fee4db68554c12",
     "SourceFilePath": ".config",
-    "TargetFileCommit": null,
-    "TargetFilePath": null,
+    "TargetFileCommit": "3d53e5a68372047309b98e66a70828883350938e",
+    "TargetFilePath": ".config",
     "UpdatedDateTime": "0001-01-01T00:00:00"
   },
   "0a4d55a8d778e5022fab701977c5d840bbc486d0": {
     "SourceFileCommit": "1db6b78053574e760a1b6a0d01fee4db68554c12",
     "SourceFilePath": "a.md",
-    "TargetFileCommit": null,
-    "TargetFilePath": null,
+    "TargetFileCommit": "3d53e5a68372047309b98e66a70828883350938e",
+    "TargetFilePath": "a.md",
     "UpdatedDateTime": "0001-01-01T00:00:00"
   }
 }
