@@ -12,5 +12,12 @@
     "TargetFileCommit": "3d53e5a68372047309b98e66a70828883350938e",
     "TargetFilePath": "a.md",
     "UpdatedDateTime": "0001-01-01T00:00:00"
+  },
+  "f437389d9f45a4198bb4a5cc283708ea8fc22bed": {
+    "SourceFileCommit": "8a7d105d809121578bc687f227c37585783ad705",
+    "SourceFilePath": "a.md",
+    "TargetFileCommit": null,
+    "TargetFilePath": null,
+    "UpdatedDateTime": "0001-01-01T00:00:00"
   }
 }
