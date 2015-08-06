@@ -1,0 +1,37 @@
+{
+  "d8a09820c68923abb34af782fa97eb51dafccfed": {
+    "SourceFileCommit": "0ddcb0fb21c2863dcae3c7e687a787e791227b03",
+    "SourceFilePath": ".localization-config",
+    "TargetFileCommit": null,
+    "TargetFilePath": null,
+    "UpdatedDateTime": "0001-01-01T00:00:00"
+  },
+  "f7ff9e8b7bb2e09b70935a5d785e0cc5d9d0abf0": {
+    "SourceFileCommit": "0ddcb0fb21c2863dcae3c7e687a787e791227b03",
+    "SourceFilePath": "1\\c.md",
+    "TargetFileCommit": null,
+    "TargetFilePath": null,
+    "UpdatedDateTime": "0001-01-01T00:00:00"
+  },
+  "70c07ec18ef89c5309bbb0937f3a6342411e1fdd": {
+    "SourceFileCommit": "0ddcb0fb21c2863dcae3c7e687a787e791227b03",
+    "SourceFilePath": "2\\d.md",
+    "TargetFileCommit": null,
+    "TargetFilePath": null,
+    "UpdatedDateTime": "0001-01-01T00:00:00"
+  },
+  "c90a3f045f87c60fdef963ae8769fd1a7fb7e3ab": {
+    "SourceFileCommit": "0ddcb0fb21c2863dcae3c7e687a787e791227b03",
+    "SourceFilePath": "a.md",
+    "TargetFileCommit": null,
+    "TargetFilePath": null,
+    "UpdatedDateTime": "0001-01-01T00:00:00"
+  },
+  "df2efa060e335f97628ca39c9fef5469ab3cb837": {
+    "SourceFileCommit": "0ddcb0fb21c2863dcae3c7e687a787e791227b03",
+    "SourceFilePath": "b.md",
+    "TargetFileCommit": null,
+    "TargetFilePath": null,
+    "UpdatedDateTime": "0001-01-01T00:00:00"
+  }
+}
