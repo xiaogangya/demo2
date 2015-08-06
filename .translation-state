@@ -54,5 +54,12 @@
     "TargetFileCommit": null,
     "TargetFilePath": null,
     "UpdatedDateTime": "0001-01-01T00:00:00"
+  },
+  "d8a09820c68923abb34af782fa97eb51dafccfed": {
+    "SourceFileCommit": "0ddcb0fb21c2863dcae3c7e687a787e791227b03",
+    "SourceFilePath": ".localization-config",
+    "TargetFileCommit": null,
+    "TargetFilePath": null,
+    "UpdatedDateTime": "0001-01-01T00:00:00"
   }
 }
